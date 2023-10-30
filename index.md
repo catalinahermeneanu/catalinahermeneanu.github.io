@@ -1,6 +1,6 @@
 # [Numele Tău]
 
-![Geodesy_image](/assets/img/Home-about-us.webp.jpg)
+![Geodesy_image](/assets/img/Home-about-us.webp)
 
 [Afla mai multe aici](url)
 ## Student la Facultatea de Geodezie | Dezvoltator Web Amator
